@@ -1,4 +1,4 @@
-This is a detailed and professional README.md template for your GitHub repository. Copy and paste this content into a file named README.md in the root of your project folder.
+
 
 AI-Driven Retail Demand Forecasting Prototype
 🎯 Project Overview
